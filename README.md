@@ -32,13 +32,10 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#wall-following-videos">Wall-Following Videos</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -124,6 +121,28 @@ Once the walls are fully mapped, the robot switches to a sweeping mode, moving s
 - [ ] Implement sweep algorithm for full environment mapping.
 
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Wall Following Videos
+
+Wall-Following with liDAR (Simple Enviroment)
+
+https://github.com/user-attachments/assets/10848fc5-4290-4970-ae27-eff79b1ea1c3
+
+Wall-Following with liDAR (Complex Envirment #1)
+
+
+https://github.com/user-attachments/assets/59a91358-c9ed-463d-9119-ab9434d2a408
+
+
+Wall-Following with liDAR (Complex Envirment #2)
+
+
+
+https://github.com/user-attachments/assets/e74db308-09c4-4ed4-99b6-8bad1a85e571
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -131,11 +150,3 @@ Once the walls are fully mapped, the robot switches to a sweeping mode, moving s
 ## Contact
 
 Sayf Ali Kamran sayfalikamran@gmail.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-Wall-Following
-<video width="80%" height="auto" controls>
-  <source src="https://github.com/user-attachments/assets/4c89cb2d-89fd-4d07-bb34-1239c4088c5c" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
